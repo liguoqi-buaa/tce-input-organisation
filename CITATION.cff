@@ -4,6 +4,13 @@ title: "Interface-Dependent Measurement of Input-Organisation Effects in Frozen 
 version: 1.0.0
 date-released: "2026-11-23"
 license: MIT
+repository-code: "https://github.com/liguoqi-buaa/tce-input-organisation"
+url: "https://github.com/liguoqi-buaa/tce-input-organisation"
+abstract: >-
+  Per-sample malignancy probabilities for seven frozen vision-language model arms
+  evaluated under six input organisations at a fixed visual-token budget, on 1,627
+  smartphone images, plus the dermoscopic and colour-condition runs. Includes the
+  scripts that render the input organisations and rebuild Table I of the paper.
 type: software
 authors:
   - family-names: Yin

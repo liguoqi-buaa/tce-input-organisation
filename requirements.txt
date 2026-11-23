@@ -1,0 +1,8 @@
+# For scripts/reproduce_table1.py and scripts/input_org.py
+numpy>=1.24
+Pillow>=10.0
+
+# Only needed for scripts/score_logits.py, which re-runs inference.
+# Not required to check any number reported in the paper.
+# torch>=2.0
+# transformers>=4.40

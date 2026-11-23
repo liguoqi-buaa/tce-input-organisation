@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the paper."
+title: "Interface-Dependent Measurement of Input-Organisation Effects in Frozen Vision-Language Models for Skin Lesion Triage"
+version: 1.0.0
+date-released: "2026-11-23"
+license: MIT
+type: software
+authors:
+  - family-names: Yin
+    given-names: Zihang
+    affiliation: "Beijing University of Posts and Telecommunications"
+  - family-names: Li
+    given-names: Guoqi
+    affiliation: "Beihang University"
+  - family-names: Liu
+    given-names: Yang
+    affiliation: "China Academy of Information and Communications Technology"
+  - family-names: Huang
+    given-names: Sai
+    affiliation: "Beijing University of Posts and Telecommunications"
+  - family-names: Zhu
+    given-names: Wenwei
+    affiliation: "Chinese PLA General Hospital"
+  - family-names: Song
+    given-names: Cuihao
+    affiliation: "Chinese PLA General Hospital"
+keywords:
+  - vision-language models
+  - input organisation
+  - visual token budget
+  - skin lesion triage
+  - reproducibility
+references:
+  - type: article
+    title: "Interface-Dependent Measurement of Input-Organisation Effects in Frozen Vision-Language Models for Skin Lesion Triage"
+    authors:
+      - family-names: Yin
+        given-names: Zihang
+      - family-names: Li
+        given-names: Guoqi
+      - family-names: Liu
+        given-names: Yang
+      - family-names: Huang
+        given-names: Sai
+      - family-names: Zhu
+        given-names: Wenwei
+      - family-names: Song
+        given-names: Cuihao
+    year: 2026

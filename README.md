@@ -1,8 +1,6 @@
 # Interface-Dependent Measurement of Input-Organisation Effects in Frozen Vision-Language Models for Skin Lesion Triage
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
-<!-- ↑ 拿到 Zenodo DOI 后，把两处 XXXXXXX 换成真实 DOI 编号 -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24476789.svg)](https://doi.org/10.5281/zenodo.24476789)
 
 Per-sample model outputs and analysis code for the paper of the same title, submitted to
 *IEEE Transactions on Consumer Electronics* (Special Section: Extended CiSoc Conference
@@ -159,8 +157,8 @@ If you use these files, please cite the paper:
 }
 ```
 
-The archived snapshot carries its own DOI; see the badge at the top of this file and
-`CITATION.cff`.
+The archived snapshot is available at https://doi.org/10.5281/zenodo.24476789.
+
 
 
 ## License
